@@ -4,7 +4,7 @@
 //     console.log(100 * 20);
 // }
 
-// add(); // Output: 2000
+// add();
 
 
 // function add(a, b) {
